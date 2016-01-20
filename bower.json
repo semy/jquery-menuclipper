@@ -1,0 +1,32 @@
+{
+  "name": "jquery-menuclipper",
+  "description": "Clips overflowing items from a navigation bar and adds them into a dropdown",
+  "main": "./dist/jquery.menuclipper.js",
+  "authors": [
+    "Praveena Sarathchandra"
+  ],
+  "dependencies": {
+    "jquery": "~1.4",
+    "jquery.actual": "~1.0.17"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "navigation",
+    "plugins",
+    "menu",
+    "responsive",
+    "mobile"
+  ],
+  "homepage": "https://github.com/semy/jquery-menuclipper",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
